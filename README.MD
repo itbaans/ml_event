@@ -236,7 +236,7 @@ def train_and_evaluate(X, y, models, k=5, model_name='xgboost'):
 
 This guide provides a foundation for approaching binary classification tasks. Teams can modify and extend these components based on their specific needs and the competition requirements.
 
-We have provided a sample notebook to get you started. Use this notebook in a dummy-competition on this link to create submissions and play around with it.
+We have provided a sample notebook to get you started. Use this notebook in a dummy-competition on this link https://www.kaggle.com/t/79b92facfd394af19bf47db89aab3a6a to create submissions and play around with it.
 
 We also adviced you to create visualizing workflows for accuracies, feature_importances etc, this will help you create better reports at the end for your overall submission.
 
